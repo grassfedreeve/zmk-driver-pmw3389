@@ -1,9 +1,9 @@
 # Copyright (c) 2025 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 description: |
-  Sensor driver for the pixart PMW3360 optical mouse sensor 
+  Sensor driver for the pixart PMW3389 optical mouse sensor 
 
-compatible: "pixart,pmw3360"
+compatible: "pixart,pmw3389"
 
 include: spi-device.yaml
 
